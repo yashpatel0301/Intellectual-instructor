@@ -1,0 +1,6 @@
+navbar -> done
+Search for course 
+quotes or reviews -> done
+Famous instructors details 
+get started menu -> done
+footer -> done
